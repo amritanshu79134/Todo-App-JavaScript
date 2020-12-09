@@ -85,7 +85,7 @@ for (var v = 0 ; v < todos.length ; v++){
 }
 
 
-new item("sport");
+
 //Clearing the list
 function removeAll(){
   var lst = document.getElementsByClassName("container");
